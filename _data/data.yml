@@ -7,22 +7,21 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Δημοστέν Τζάμα Π2019213
+    tagline: Junior Penetration Tester
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: p19tzam@ionio.gr
+    phone: 6969696969
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: dhmosfunk.github.io
+    linkedin: Dhmosthenhs Xama
+    github: dhmosfunk
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@DSkfunk'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,52 +31,41 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
+      - idiom: Greek
         level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
+        
     interests:
-      - item: Climbing
+      - item: Programming
         link:
 
-      - item: Snowboarding
+      - item: Linux
         link:
 
-      - item: Cooking
+      - item: Hacking
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      2-3 years of experience(unofficial) in Cybersecurity & Informatics fields. Playing CTF challenges on Hackthebox
+      researching online and testing my Knowledge on the field. Participate in Ionian University CTF Team & Admin,
+      recruiting, management of CTF Team.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bachelor's degree, Informatics
+      university:  Ionian University 
+      time: 2019 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Since Oct, 2019 Student at Department of Informatics in Ionian University. Expected end date 2022.
+        Participate in Ionian University CTF Team Player & Admin, recruiting, management of CTF Team.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: IT application technician Degree
+      university: 1o Epal Edessas 2019
+      time: 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Participate in MyLib Project in developer role. MyLib Project is an online library management. Many schools
+        participate in this project with their own domains. This project was developed by a professor named Triptshs
+        Vasileios and my classmates.
           - Bullet point
           - Bullet point
 experiences:

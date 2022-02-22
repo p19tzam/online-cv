@@ -29,10 +29,13 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Native
+        level: Professional
 
       - idiom: Greek
-        level: Professional
+        level: Native
+        
+      - idiom: Albanian
+        level: Native
         
     interests:
       - item: Programming

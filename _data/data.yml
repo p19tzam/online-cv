@@ -81,28 +81,14 @@ experiences:
         For me it was the first time that i participated in Real World CTF but everything went very well, 
         we did better than  expected and the position we finished was very good compared to others.
           - Solve the skynet web challenge
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Contestant - CTF Member
+      time: February 05, 2022 - February 07, 2022
+      company: Dice CTF
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        The Dice CTF was an experience like Real World CTF with very hard web challenges 0days etc. 
+        this CTF was a good opportunity to lean some nodejs because the challenges implemented in nodejs.
+        I solve one web challenge nameed knock-knock.
+          - Solve knock-knock web challenge
 projects:
     title: Projects
     intro: >

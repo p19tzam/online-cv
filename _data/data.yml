@@ -116,11 +116,19 @@ skills:
       - name: Web penetration testing
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Active Directory
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Linux Privilege Escalation
+        level: 80%
 
+      - name: Windows Privilege Escalation
+        level: 60%
+        
+      - name: Network Enumeration
+        level: 90%
+        
+      - name: Foothold
+        level: 90%
 footer: >
     Βιογραφικό Δημοστέν Τζάμα Π2019213

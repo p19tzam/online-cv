@@ -104,16 +104,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python - web scripting, 
+      - name: Python(Scripting) 
         level: 100%
 
-      - name: Javascript & jQuery
+      - name: Exploit Dev
         level: 98%
 
-      - name: Angular
+      - name: Networking
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Web penetration testing
         level: 95%
 
       - name: Ruby on Rails
@@ -123,4 +123,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Βιογραφικό Δημοστέν Τζάμα Π2019213

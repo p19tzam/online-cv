@@ -75,8 +75,11 @@ experiences:
     - role: Contestant - CTF Member
       time: January 20, 2022  - January 23, 2022 
       company: Real World CTF
-      details: 
-        The Real Wolrd CTF was an insane experience with a lot of challenges(web,pwd,rev and some combined) I finished top 51th placement in the scoreboard and won the digital souvenirs(nft) for each challenge. For me it was the first time that i participated in Real World CTF but everything went very well, we did better than  expected and the position we finished was very good compared to others. - Solve the skynet web challenge
+      details: |
+        The Real Wolrd CTF was an insane experience with a lot of challenges(web,pwd,rev and some combined) 
+        I finished top 51th placement in the scoreboard and won the digital souvenirs(nft) for each challenge. 
+        For me it was the first time that i participated in Real World CTF but everything went very well, 
+        we did better than  expected and the position we finished was very good compared to others.
           - Solve the skynet web challenge
     - role: Senior Software Engineer
       time: 2014 - 2015

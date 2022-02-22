@@ -95,13 +95,13 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here you will find some of my projects that have been implemented in the course of my career.
     assignments:
-      - title: Projects [Writeups-CTF]
-        link: "https://dhmosfunk.github.io/"
-        tagline: "Find my projects at my github pages site!"
+      - title: MyLib Project 
+        link: "https://mylib.gr/"
+        tagline: "Participate in MyLib Project in developer role. MyLib Project is an online library management. Many schools
+        participate in this project with their own domains. This project was developed by a professor named Triptshs
+        Vasileios and my classmates."
 
 skills:
     title: Skills &amp; Proficiency
